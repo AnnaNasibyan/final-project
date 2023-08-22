@@ -29,6 +29,6 @@ I recommend using the following structure when writing your project, though it i
 * Results, including your code, images, charts, graphs
 * Discussion & conclusion
 
-**In-class project presentation** (5 bonus points), due week 14 (4/27) during class:
+**In-class project presentation** (5 bonus points), due week 14 during class:
 
 Present your research project to our class in 7 minutes or less. Walk us through your research question, methods, results, and conclusions. You can present directly from your GitHub repo or create slides. 
