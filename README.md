@@ -12,11 +12,11 @@ The final project is designed to be progressive across the semester. This will e
 
 Schedule a 15-minute, virtual meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar by 10am before the start of class (the meeting can happen later that week, if needed). Use [this link](https://calendly.com/rkrisel-1/final?month=2023-02) to schedule the meeting.
 
-**Project proposal** (25 points), due week 8 by 10am before the start of class: 
+**Project proposal** (15 points), due week 8 by 10am before the start of class: 
 
 Your project proposal should be about 500 words, and should introduce your topic and research question, state your hypothesis, and explain your methods of data collection and analysis. It should also say why this topic is both relevant and important to public policy. You can type this in a Word document (or any other text editor) and email to me: [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu). 
 
-**Final project** (65 points), due week 13 by 10am before the start of class: 
+**Final project** (60 points), due week 13 by 10am before the start of class: 
 
 The final project will be written in [Markdown](https://www.markdownguide.org/basic-syntax/) and shared on your GitHub account as a [new repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) (you can make it public or private, but if it’s private, you have to invite me to view your repo). It will include text (~ 2,000 words), your code, and any [images/charts/graphs](https://ardalis.com/add-images-easily-to-github/). Email me a link to your GitHub repo when submitting the project. 
 
@@ -29,6 +29,6 @@ I recommend using the following structure when writing your project, though it i
 * Results, including your code, images, charts, graphs
 * Discussion & conclusion
 
-**In-class project presentation** (5 points), due week 13/or finals week in person:
+**In-class project presentation** (20 points), due week 13/or finals week in person:
 
-Present your research project to our class in 7 minutes or less. Walk us through your research question, methods, results, and conclusions. You can present directly from your GitHub repo or create slides. 
+Present your research project to our class in 10 minutes or less. Walk us through your research question, methods, results, and conclusions. You can present directly from your GitHub repo or create slides. 
