@@ -14,7 +14,7 @@ Schedule a 15-minute, virtual meeting with me to discuss ideas for your final pr
 
 **Project proposal** (15 points), due week 8: 
 
-Your project proposal should be about 500 words, and should introduce your topic and research question, state your hypothesis, and explain your methods of data collection and analysis. It should also say why this topic is both relevant and important to public policy. You can type this in a Word document (or any other text editor) and email to me: [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu). 
+Your project proposal should be about 500 words, and should introduce your topic and research question, state your hypothesis, and explain your methods of data collection and analysis. It should also say why this topic is both relevant and important to public policy. You can type this in a Word document or Google doc and email to me: [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu). 
 
 **Final project** (60 points), due week 13: 
 
