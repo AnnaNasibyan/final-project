@@ -31,4 +31,4 @@ I recommend using the following structure when writing your project, though it i
 
 **In-class project presentation** (20 points), due 12/6 or 12/20:
 
-Present your research project to our class in 5mins + 2 minutes of questions. Walk us through your research question, methods, results, and conclusions. You can present directly from your GitHub repo or create slides. 
+Present your research project to our class in 5mins + 2 minutes of questions. Walk us through your research question, methods, results, and conclusions. If you plan to present from slides, please use Google slides and email me the link to your presentation by 7pm ET on Tuesday (12/5 or 12/19) . 
