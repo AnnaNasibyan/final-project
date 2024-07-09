@@ -16,19 +16,18 @@ Schedule a 15-minute, virtual meeting with me to discuss ideas for your final pr
 
 Your project proposal should be about 500 words, and should introduce your topic and research question, state your hypothesis, and explain your methods of data collection and analysis. It should also say why this topic is both relevant and important to public policy. You can type this in a Word document or Google doc and email to me: [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu). 
 
+**In-class project presentation** (20 points), due week 13 or exam week:
+
+Present your research project to our class in 5mins + 2 minutes of questions. Walk us through your research question, methods, results, and conclusions. If you plan to present from slides, please use Google slides and email me the link to your presentation by 7pm ET on the Tuesday before your presentation date. 
+
 **Final project** (60 points), due 12/20 at 9:00am: 
 
 The final project will be written in [Markdown](https://www.markdownguide.org/basic-syntax/) and shared on your GitHub account as a [new repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) (you can make it public or private, but if it’s private, you have to invite me to view your repo). It will include text (~ 2,000 words), your code, and any [images/charts/graphs](https://ardalis.com/add-images-easily-to-github/). Email me a link to your GitHub repo when submitting the project. 
 
 I recommend using the following structure when writing your project, though it is not required:
 
-
-
 * Introduction, including your research question, hypothesis, and why it’s important
 * Methods, describing how you collected and analyzed the data
 * Results, including your code, images, charts, graphs
 * Discussion & conclusion
 
-**In-class project presentation** (20 points), due 12/6 or 12/20:
-
-Present your research project to our class in 5mins + 2 minutes of questions. Walk us through your research question, methods, results, and conclusions. If you plan to present from slides, please use Google slides and email me the link to your presentation by 7pm ET on Tuesday (12/5 or 12/19) . 
